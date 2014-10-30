@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LoginView.h
 //  万锦金融
 //
 //  Created by Kevin on 2014-10-28.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface LoginView : UIViewController
 
 
 @end
